@@ -1,0 +1,41 @@
+{
+    "shoes": [
+        {
+          "id": 1,
+          "name": "AirMax Breeze",
+          "description": "Lightweight running shoes with superior breathability and comfort.",
+          "price": 120.99
+        },
+        {
+          "id": 2,
+          "name": "UrbanWalker 2.0",
+          "description": "Stylish and durable sneakers for everyday urban exploration.",
+          "price": 89.50
+        },
+        {
+          "id": 3,
+          "name": "TrailBlazer Pro",
+          "description": "Rugged trail shoes designed for extreme outdoor conditions and grip.",
+          "price": 150.00
+        },
+        {
+          "id": 4,
+          "name": "ClassicFit Leather",
+          "description": "Elegant leather shoes with a timeless design for formal occasions.",
+          "price": 199.99
+        },
+        {
+          "id": 5,
+          "name": "FlexiRun 500",
+          "description": "Flexible and lightweight running shoes for daily jogs and training.",
+          "price": 110.25
+        },
+        {
+          "id": 6,
+          "name": "AdventureHike X",
+          "description": "High-performance hiking boots with excellent support and waterproofing.",
+          "price": 175.75
+        }
+      ]
+      
+  }
